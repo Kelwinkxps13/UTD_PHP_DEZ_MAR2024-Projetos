@@ -1,3 +1,6 @@
+#### O exercício em si, era pra responder três questôes
+
+
 <div align="center">
 
 ##### vou reescrever abaixo, todo o arquivo necessario pra fazer a atividade, em markdown
