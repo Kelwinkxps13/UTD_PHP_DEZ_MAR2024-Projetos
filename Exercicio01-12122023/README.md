@@ -102,10 +102,10 @@ Os formulários permitem a interação do usuário. Exemplo de um formulário si
 ~~~~
 
   - **\<form>**: Define um formulário.
-  - **\action**: Especifica para onde os dados do formulário devem ser enviados.
-  - **\method**: Especifica o método de envio dos dados (GET ou POST).
+  - **action**: Especifica para onde os dados do formulário devem ser enviados.
+  - **method**: Especifica o método de envio dos dados (GET ou POST).
   - **\<label>**: Rótulo para um campo de formulário.
   - **\<input>**: Cria campos de entrada (como texto ou senha).
-  - **\type**: Especifica o tipo de campo de entrada (text, password, submit, etc.).
+  - **type**: Especifica o tipo de campo de entrada (text, password, submit, etc.).
 
 Esses são apenas alguns conceitos básicos; HTML é uma linguagem muito rica e existem muitos outros elementos e atributos para diferentes finalidades que iremos abordar em breve.
