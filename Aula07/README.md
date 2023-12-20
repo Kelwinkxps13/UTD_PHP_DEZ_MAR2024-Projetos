@@ -7,7 +7,7 @@
 
 ### abaixo irei citar algumas classes importantes
 
-container - ele utiliza todo o tamanho da tela, e da uma margem na esquerda e uma margem na direita;
+- container - ele utiliza todo o tamanho da tela, e da uma margem na esquerda e uma margem na direita;
 - row- informa para o bootstrap que queremos trabalhar com as 12 colunas;
 - col-n - informa pro bootstrap que queremos trabalhar com n colunas (onde n <=12);
 - bg-success - cor verde
