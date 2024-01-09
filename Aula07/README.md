@@ -1,4 +1,4 @@
-# introdução ao Bootstrap
+# introdução ao Bootstrap.
 
 ### alguns conceitos
 

@@ -1,3 +1,3 @@
-## Introdução
+## Introdução.
 
 aula introdutória ao conteúdo
